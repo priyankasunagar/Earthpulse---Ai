@@ -1,0 +1,6 @@
+{
+  "name": "EarthPulse — Earth System Trend Detective",
+  "description": "Scientifically rigorous Earth-system data investigation platform for discovering, retrieving, processing, and testing spatiotemporal trends in NASA satellite and climate observations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
